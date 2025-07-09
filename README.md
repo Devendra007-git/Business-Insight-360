@@ -1,4 +1,4 @@
-# Business-Insight-360
+
 # Business Insights 360 – Power BI Dashboard
 
 This project is a comprehensive, interactive **Power BI dashboard** designed to deliver powerful business intelligence across key functions: **Finance, Sales, Supply Chain, Marketing, and Executive Reporting**.
