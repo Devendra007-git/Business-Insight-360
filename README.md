@@ -95,7 +95,7 @@ Thanks to [CodeBasics.io](https://codebasics.io) and Dhaval Patel for creating s
 **Devendra Kumar
 📧 mbdevendrakumar.321@gmail.com  
 📍 Bangalore, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/devendra-kumar/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/devendrakumar-dataanalyst)  
 
 ---
 
